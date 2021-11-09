@@ -1,1 +1,2 @@
-# running-girl
+# Running-girl
+infinite game
